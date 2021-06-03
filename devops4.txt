@@ -1,3 +1,5 @@
 ansible
 terraform
 jenkins
+packer
+docker
